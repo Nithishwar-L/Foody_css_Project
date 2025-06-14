@@ -1,0 +1,63 @@
+
+.header{
+    background-color: rgb(249, 92, 35);
+    padding: 40px;
+    text-align: center;
+    font-family: cursive;
+    
+  
+
+}
+.first{
+    background-color: white;
+    display: inline;
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 40px;
+    border-color: black;
+    border-width: 6px;
+    border-style: solid;
+
+}
+.order{
+    text-align: center;
+}
+.second{
+    display: inline-block;
+    color: rgb(3, 3, 173);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding: 10px;
+    
+}
+.box{
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 250px;
+}
+.food{
+    text-align: center;
+}
+.three{
+    background-color:black;
+    color:white;
+    display: inline-block;
+     margin-top: 0px;
+     font-size: 20px;
+     margin-bottom: 10px;
+     padding: 5px;
+     border-width: 0px;
+}
+p{
+    padding: 10px;
+    font-size: 10px;
+}
+.three:hover{
+    background-color:orange;
+    color:black;
+    cursor: pointer;
+}
+
+
